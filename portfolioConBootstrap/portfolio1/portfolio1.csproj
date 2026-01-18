@@ -73,7 +73,9 @@
     <Content Include="images\foto.jfif" />
     <Content Include="images\portfolio.ico" />
     <Content Include="images\Principal.jpg" />
+    <Content Include="images\Web.png" />
     <Content Include="Proyectos.aspx" />
+    <Content Include="Scripts\JavaScript.js" />
     <Content Include="SobreMi.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
